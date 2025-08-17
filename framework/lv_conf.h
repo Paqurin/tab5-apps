@@ -1,0 +1,25 @@
+#ifndef LV_CONF_H
+#define LV_CONF_H
+
+#define LV_COLOR_DEPTH 16
+#define LV_COLOR_16_SWAP 0
+#define LV_MEM_SIZE (64 * 1024U)
+#define LV_USE_PERF_MONITOR 1
+#define LV_USE_MEM_MONITOR 1
+#define LV_USE_LOG 1
+#define LV_LOG_LEVEL LV_LOG_LEVEL_INFO
+
+#define LV_FONT_MONTSERRAT_12 1
+#define LV_FONT_MONTSERRAT_14 1
+#define LV_FONT_MONTSERRAT_16 1
+
+#define LV_USE_THEME_DEFAULT 1
+#define LV_USE_THEME_MATERIAL 1
+
+#define LV_USE_TEXTAREA 1
+#define LV_USE_KEYBOARD 1
+#define LV_USE_BTNMATRIX 1
+#define LV_USE_BTN 1
+#define LV_USE_LABEL 1
+
+#endif

@@ -1,0 +1,39 @@
+# PlatformIO
+.pio/
+.vscode/
+.clang_complete
+.gcc-flags.json
+
+# Build artifacts
+*.o
+*.a
+*.elf
+*.bin
+*.map
+
+# IDE files
+*.code-workspace
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Node modules (if any web components)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Documentation build
+docs/_build/
