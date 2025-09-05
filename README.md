@@ -1,4 +1,4 @@
-# M5Stack Tab5 Application Suite
+# M5Stack Tab5 Application Suite, have not been able to test any of this yet. still tinkering
 
 A comprehensive collection of 14 professional applications for the M5Stack Tab5 ESP32-P4 personal assistant system.
 
@@ -164,4 +164,5 @@ This project is provided as-is for educational and development purposes.
 **Total Applications**: 14 comprehensive apps  
 **Lines of Code**: 15,000+ LOC  
 **Memory Footprint**: Optimized for ESP32-P4 constraints  
+
 **Development Status**: Production-ready with ongoing enhancements
